@@ -30,3 +30,7 @@ This repository was implemented with assistance from an AI coding agent.
 - Mock rate service with simulated latency + partial DHL outage behavior.
 - Fincart-inspired MUI theme tokens.
 - README / PROMPTS sections aligned with the brief (API resilience + 3G bundle strategy).
+
+## Extended methodology
+
+For the full workflow narrative (multi-model analysis, unified plan, order of Cursor skills applied), planning-phase prompt themes, and frozen snapshots of the skills used (**SDD Plan Architect**, **Task DNA**, **Senior Product Designer + UX Engineer**, **Senior Refactor Standards**), see [`agentics/README.md`](agentics/README.md).
